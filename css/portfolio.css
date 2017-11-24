@@ -290,7 +290,10 @@ ul.tags li a:hover {
 }
 
 
-
+.isolayer {
+    max-width: 900px !important;
+    
+}
 
 
 /* Content */
